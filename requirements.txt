@@ -1,0 +1,4 @@
+google-adk[extensions]
+mcp
+streamlit
+pandas
